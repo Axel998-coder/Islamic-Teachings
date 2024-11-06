@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Islamic Teachings</title>
+    <style>
+        body {
+            background-color: black;
+            color: gold;
+            font-family: Arial, sans-serif;
+            text-align: center;
+            padding: 20px;
+        }
+        h1 {
+            font-size: 36px;
+            margin-bottom: 20px;
+        }
+        .hadiths {
+            margin: 30px 0;
+            font-size: 18px;
+            line-height: 1.8;
+        }
+        .hadiths p {
+            margin: 10px 0;
+        }
+        .image-container {
+            margin: 30px 0;
+        }
+        img {
+            width: 100%;
+            max-width: 600px;
+            border-radius: 10px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Islamic Teachings & Hadiths</h1>
+    
+    <div class="image-container">
+        <img src="https://www.example.com/your-image1.jpg" alt="Islamic Image 1">
+        <img src="https://www.example.com/your-image2.jpg" alt="Islamic Image 2">
+    </div>
+
+    <div class="hadiths">
+        <h2>10 Hadiths to Inspire and Uplift</h2>
+        <p>1. "The best among you are those who have the best manners and character." - Sahih Bukhari</p>
+        <p>2. "Whoever believes in Allah and the Last Day, let him speak good or remain silent." - Sahih Muslim</p>
+        <p>3. "The strong one is not the one who is strong in wrestling, but the one who controls himself when angry." - Sahih Bukhari</p>
+        <p>4. "Kindness is a mark of faith, and whoever is not kind has no faith." - Sahih Muslim</p>
+        <p>5. "Whoever shows you kindness, repay him with kindness." - Sahih Muslim</p>
+        <p>6. "A Muslim is the one who avoids harming others with his tongue and hands." - Sahih Bukhari</p>
+        <p>7. "Do not let your hatred of a people incite you to injustice." - Quran 5:8</p>
+        <p>8. "The best of you are those who are the most beneficial to others." - Daraqutni</p>
+        <p>9. "He who does not show mercy will not be shown mercy." - Sahih Bukhari</p>
+        <p>10. "Abuse and bad language are signs of ignorance." - Sahih Bukhari</p>
+    </div>
+
+</body>
+</html>
